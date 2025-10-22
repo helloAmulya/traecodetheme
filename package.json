@@ -3,7 +3,7 @@
   "displayName": "Trae dark (code)",
   "description": "A custom dark theme based on Trae, with enhanced syntax highlighting and colors for VS Code.",
   "version": "1.0.0",
-  "publisher": "daddyAmulya",  
+  "publisher": "Amulya Ratna Sharma",  
   "engines": {
     "vscode": "^1.60.0"
   },
@@ -12,7 +12,7 @@
   "icon": "icon.png",  
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/my-trae-theme.git"  
+    "url": "https://github.com/helloAmulya/traecodetheme.git "  
   },
   "contributes": {
     "themes": [
