@@ -36,7 +36,7 @@ To match the original setup (including font and line height), add these to your 
 
 ```json
 {
-  "workbench.colorTheme": "My Trae Theme",
+  "workbench.colorTheme": "Trae dark (code)",
   "editor.fontFamily": "'JetBrains Mono', monospace",
   "editor.fontSize": 14,
   "editor.fontWeight": "normal",
