@@ -3,8 +3,10 @@
 A custom dark VS Code theme inspired by Trae, featuring a sleek dark interface with improved syntax highlighting for better readability.
 
 ## Screenshots
-<img src=screenshot1.png>
-<img src=screenshot2.png>
+## Screenshots
+<img src="./screenshot1.png" alt="Theme preview 1">
+<img src="./screenshot2.png" alt="Theme preview 2">
+
 
 ## Installation
 
